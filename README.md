@@ -1,13 +1,13 @@
-# 📌 Belajar Variabel dalam Python
+# 📌 Belajar Variabel dalam Java (NetBeans)
 
-Repository ini berisi berbagai contoh program Python untuk memahami variabel dan penggunaannya dalam berbagai kasus, seperti input biodata, perhitungan luas bangun datar, serta pembuatan class.
+Repository ini berisi berbagai contoh program Java untuk memahami variabel dan penggunaannya dalam berbagai kasus, seperti input biodata, perhitungan luas bangun datar, serta pembuatan class di NetBeans.
 
 ## 📌 Daftar Program
 1. **Biodata** - Program untuk memasukkan dan menampilkan biodata pengguna.
 2. **Luas Persegi Panjang** - Menghitung luas persegi panjang berdasarkan panjang dan lebar.
 3. **Luas Lingkaran** - Menghitung luas lingkaran berdasarkan jari-jari.
 4. **Luas Segitiga** - Menghitung luas segitiga berdasarkan alas dan tinggi.
-5. **Class Mobil** - Contoh penggunaan class dalam Python dengan objek mobil.
+5. **Class Mobil** - Contoh penggunaan class dalam Java dengan objek mobil.
 6. **Class Nilai** - Contoh class untuk mengelola nilai siswa.
 
 ---
@@ -43,16 +43,13 @@ Membuat class untuk menyimpan dan mengelola nilai siswa.
 ![Class Nilai](https://github.com/fardan23/belajar_variabel/blob/main/images/belajar_nilai.png?raw=true)
 
 ---
-## 📌 Cara Menjalankan Program
+## 📌 Cara Menjalankan Program di NetBeans
 1. **Clone repository ini**
    ```bash
    git clone https://github.com/fardan23/belajar_variabel.git
-   cd belajar_variabel
    ```
-2. **Jalankan salah satu program menggunakan Python**
-   ```bash
-   python nama_file.py
-   ```
+2. **Buka NetBeans** dan pilih **Open Project**.
+3. **Jalankan salah satu program dengan klik Run** pada file utama.
 
 ---
 ## 📌 Kontribusi
